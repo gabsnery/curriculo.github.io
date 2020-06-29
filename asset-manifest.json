@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.523f09c5.chunk.css",
-    "main.js": "/static/js/main.959b0367.chunk.js",
-    "main.js.map": "/static/js/main.959b0367.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.061d3831.js",
-    "runtime-main.js.map": "/static/js/runtime-main.061d3831.js.map",
-    "static/js/2.a6d8fd33.chunk.js": "/static/js/2.a6d8fd33.chunk.js",
-    "static/js/2.a6d8fd33.chunk.js.map": "/static/js/2.a6d8fd33.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ea339b3d00049ab49ea71e7ecb0e7ce8.js": "/precache-manifest.ea339b3d00049ab49ea71e7ecb0e7ce8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.a6d8fd33.chunk.js.LICENSE.txt": "/static/js/2.a6d8fd33.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/curriculo.github.io/static/css/main.523f09c5.chunk.css",
+    "main.js": "/curriculo.github.io/static/js/main.e2d9778b.chunk.js",
+    "main.js.map": "/curriculo.github.io/static/js/main.e2d9778b.chunk.js.map",
+    "runtime-main.js": "/curriculo.github.io/static/js/runtime-main.3db10c35.js",
+    "runtime-main.js.map": "/curriculo.github.io/static/js/runtime-main.3db10c35.js.map",
+    "static/js/2.a6d8fd33.chunk.js": "/curriculo.github.io/static/js/2.a6d8fd33.chunk.js",
+    "static/js/2.a6d8fd33.chunk.js.map": "/curriculo.github.io/static/js/2.a6d8fd33.chunk.js.map",
+    "index.html": "/curriculo.github.io/index.html",
+    "precache-manifest.d94f652c4a640f0a0f47a0297677ccd9.js": "/curriculo.github.io/precache-manifest.d94f652c4a640f0a0f47a0297677ccd9.js",
+    "service-worker.js": "/curriculo.github.io/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/curriculo.github.io/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a6d8fd33.chunk.js.LICENSE.txt": "/curriculo.github.io/static/js/2.a6d8fd33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/curriculo.github.io/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.061d3831.js",
+    "static/js/runtime-main.3db10c35.js",
     "static/js/2.a6d8fd33.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.959b0367.chunk.js"
+    "static/js/main.e2d9778b.chunk.js"
   ]
 }
